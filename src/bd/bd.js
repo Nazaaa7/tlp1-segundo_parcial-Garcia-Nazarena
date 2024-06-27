@@ -1,9 +1,19 @@
-const bd = {
+const bd = [{
     id: 1,
     name: "Arroz",
     quantity: 21,
     price: 22.2
-}
+},{
+    id: 2,
+    name: "Fideo",
+    quantity: 11,
+    price: 200
+},{
+    id: 3,
+    name: "Cereal",
+    quantity: 10,
+    price: 954
+}]
 
 
 
