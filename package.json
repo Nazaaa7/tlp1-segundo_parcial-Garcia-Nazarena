@@ -1,0 +1,14 @@
+{
+  "name": "tlp1-segundo_parcial-garcia-nazarena",
+  "version": "1.0.0",
+  "description": "2do parcial",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node --watch main.js"
+  },
+  "author": "Naza Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
